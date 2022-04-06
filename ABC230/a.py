@@ -13,3 +13,9 @@ print("AGC0{}".format(S))
 
 
 #zfill(3)で文字列を右よせで3桁の余白にはゼロを埋めることができる
+"""
+N = int(input())
+if N >= 42:
+    N += 1
+print("AGC" + str(N).zfill(3))
+"""
