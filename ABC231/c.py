@@ -1,3 +1,4 @@
+#二分探索法(bisect)
 from bisect import bisect_left
 
 N, Q = map(int,input().split())
